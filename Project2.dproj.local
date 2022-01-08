@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/14 21:33:51.000.806,=C:\Users\Brel\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 21:34:17.000.514,=C:\Users\Brel\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2021/12/14 21:39:09.000.722,C:\Users\Brel\Documents\Embarcadero\Studio\Projets\Unit2.pas=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit2.pas</Transaction>
+    <Transaction>2021/12/14 21:39:09.000.722,C:\Users\Brel\Documents\Embarcadero\Studio\Projets\Unit2.dfm=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit2.dfm</Transaction>
+    <Transaction>2021/12/14 21:39:12.000.717,C:\Users\Brel\Documents\Embarcadero\Studio\Projets\Unit1.pas=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 21:39:12.000.717,C:\Users\Brel\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit1.dfm</Transaction>
+    <Transaction>2021/12/14 21:39:14.000.576,C:\Users\Brel\Documents\Embarcadero\Studio\Projets\Project2.dproj=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Project2.dproj</Transaction>
+    <Transaction>2021/12/15 20:41:46.000.852,=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit3.pas</Transaction>
+    <Transaction>2021/12/15 20:41:57.000.303,C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit3.dfm=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\menu.dfm</Transaction>
+    <Transaction>2021/12/15 20:41:57.000.303,C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit3.pas=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\menu.pas</Transaction>
+    <Transaction>2022/01/03 15:55:40.326,=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit3.pas</Transaction>
+    <Transaction>2022/01/03 15:55:50.338,C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\eleve.pas=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit3.pas</Transaction>
+    <Transaction>2022/01/03 15:55:50.338,C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\eleve.dfm=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit3.dfm</Transaction>
+    <Transaction>2022/01/03 16:01:44.580,=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit4.pas</Transaction>
+    <Transaction>2022/01/03 16:01:53.983,C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\inscriptions.pas=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit4.pas</Transaction>
+    <Transaction>2022/01/03 16:01:53.983,C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\inscriptions.dfm=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau dossier\Unit4.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

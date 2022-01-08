@@ -1,0 +1,29 @@
+object dm: Tdm
+  Height = 380
+  Width = 686
+  PixelsPerInch = 144
+  object FDConnection1: TFDConnection
+    Params.Strings = (
+      
+        'Database=C:\Users\Brel\Documents\Embarcadero\Studio\Nouveau doss' +
+        'ier\ecole'
+      'DriverID=SQLite')
+    Connected = True
+    LoginPrompt = False
+    Left = 272
+    Top = 120
+  end
+  object professeur: TFDTable
+    Active = True
+    IndexFieldNames = 'id_Prof'
+    Connection = FDConnection1
+    TableName = 'Professeur'
+    Left = 464
+    Top = 120
+  end
+  object dsprofesseur: TDataSource
+    DataSet = professeur
+    Left = 152
+    Top = 80
+  end
+end

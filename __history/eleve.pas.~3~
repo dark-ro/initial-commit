@@ -1,0 +1,25 @@
+unit eleve;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Data.DB, Vcl.Grids, Vcl.DBGrids;
+
+type
+  TFmEleve = class(TForm)
+    DBGrid1: TDBGrid;
+  private
+    { Déclarations privées }
+  public
+    { Déclarations publiques }
+  end;
+
+var
+  FmEleve: TFmEleve;
+
+implementation
+
+{$R *.dfm}
+
+end.
